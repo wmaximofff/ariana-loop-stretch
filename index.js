@@ -5,7 +5,7 @@
 // the loop should stop when it reaches 20, so it cannot be more than 20. less or equal to 20.
 // one more should be added each time the loop runs (our afterthought)
 
-for (let i = 1; i <=20; i++){
+for (let bunnyNumber = 1; bunnyNumber <=20; bunnyNumber++){
   console.log("Floofer" + i);
 }
 
